@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
-<h3 align="center">A passionate full-stack developer from Venezuela</h3>
+<h3 align="center">A passionate Software developer from Venezuela</h3>
 <p align="center">
   <img src="logo_personal_marco.png" alt="Descripción de la imagen" width="100%" height="auto" />
 </p>
