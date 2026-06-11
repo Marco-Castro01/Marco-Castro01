@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
-<h3 align="center">A passionate Software developer from Venezuela 🇻🇪</h3>
+<h3 align="center">Computer Engineer | Full Stack Developer | Cloud & DevOps</h3>
 
 <p align="center">
   <img src="logo_personal_marco.png" alt="Marco's Profile" width="800" style="max-width: 100%; border-radius: 10px;" />
@@ -8,21 +8,33 @@
 ---
 
 ### 👨‍💻 About Me
-* 🚀 I’m currently focused on **Full Stack Development**, **Cloud Architecture**, and **DevOps** practices.
-* ☁️ Passionate about building and deploying scalable cloud solutions using **Azure** and **AWS**.
-* 🐳 Expert in containerization with **Docker** and streamlining CI/CD workflows.
-* 💬 Ask me about: **JavaScript, TypeScript, NestJS, Azure, Docker, and DevOps**.
-* 📫 How to reach me: [marco.castro01@email.com](mailto:tu-email@ejemplo.com)
+Computer Engineer graduated from **UCAB**. Responsible and detail-oriented professional with strong problem-solving skills and proven ability to work in teams and under pressure. Specialized in **Full Stack Development**, software architecture, cloud tools, and agile methodologies like Scrum. 
 
 ---
 
-### 🌐 Socials
+### 💼 Experience
+* **Bestvision Group** | Computer Engineer / Software Engineer | *Dec 2024 – Present*
+    * Development and optimization of systems using **Angular, Vue.js, NestJS, and PostgreSQL**.
+    * Deployment and management of scalable applications using **Docker and Azure**.
+* **Newtoms LLC** | Full Stack Developer | *Aug 2023 – Sept 2023*
+    * Developed web modules using **AWS, Python, and LLMs**.
+* **Academia Nacional de Ajedrez** | Full Stack Programmer | *May 2023 – July 2023*
+    * Web development focusing on payment gateways and event visualization.
+* **STARVE C.A** | Full Stack Developer | *Feb 2019 – July 2019*
+    * Data visualization modules using **Django**.
+
+---
+
+### 🏆 Achievements
+* **1st Place** - UCAB Local Programming Marathon 2023.
+* **4th Place (Institutional)** - Regional Programming Marathon (ICPC).
+
+---
+
+### 🌐 Connect with me:
 <p>
   <a href="https://www.linkedin.com/in/marco-castro01" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/marco_castro.o" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -32,10 +44,10 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="25"/> |
-| **Web Dev** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="25"/> |
-| **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="25"/> |
-| **DevOps & Cloud** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="25"/> |
+| **Languages** | C++, C#, Java, JS/TS, Python, PHP |
+| **Web Dev** | Angular, Vue.js, NestJS, Express, Fastify |
+| **Cloud & DevOps** | Azure, AWS, Docker, Kubernetes, Git, Linux |
+| **Databases** | PostgreSQL, SQL Server, MySQL |
 
 ---
 
@@ -43,8 +55,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marco-castro01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marco-castro01&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marco-castro01&show_icons=true&theme=radical&layout=compact&hide_border=true" />
 </p>
