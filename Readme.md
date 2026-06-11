@@ -48,10 +48,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marco-castro01&show_icons=true&theme=radical&layout=compact&hide_border=true" />
 </p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marco-castro01&theme=radical&no-bg=true" />
-</p>
