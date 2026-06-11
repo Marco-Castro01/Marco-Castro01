@@ -8,9 +8,10 @@
 ---
 
 ### 👨‍💻 About Me
-* 🚀 I’m currently focused on **Full Stack Development** and **Cloud Architecture**.
-* 🌱 I’m constantly learning and implementing **clean code** and **scalable systems**.
-* 💬 Ask me about: **JavaScript, TypeScript, NestJS, and AWS**.
+* 🚀 I’m currently focused on **Full Stack Development**, **Cloud Architecture**, and **DevOps** practices.
+* ☁️ Passionate about building and deploying scalable cloud solutions using **Azure** and **AWS**.
+* 🐳 Expert in containerization with **Docker** and streamlining CI/CD workflows.
+* 💬 Ask me about: **JavaScript, TypeScript, NestJS, Azure, Docker, and DevOps**.
 * 📫 How to reach me: [marco.castro01@email.com](mailto:tu-email@ejemplo.com)
 
 ---
@@ -34,7 +35,7 @@
 | **Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25"/> |
 | **Web Dev** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="25"/> |
 | **Databases** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="25"/> |
-| **DevOps** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="25"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="25"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/> |
+| **DevOps & Cloud** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="25"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="25"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/> |
 
 ---
 
